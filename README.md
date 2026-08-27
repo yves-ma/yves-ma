@@ -58,66 +58,15 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazimpakayves&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazimpakayves&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazimpakayves&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazimpakayves&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mazimpakayves&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
 ### 🌐 Connect with Me
 
 <div align="center">
   <a href="mailto:mazimpakayves@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/mazimpakayves" target="_blank">
+  <a href="https://linkedin.com/in/yvesma" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mazimpakayves" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/mazimpakayves" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://dev.to/mazimpakayves" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
 </div>
 
----
 
-### 💻 What I'm Currently Working On
-
-```javascript
-const yves = {
-  code: ["JavaScript", "TypeScript"],
-  frontend: ["React", "TailwindCSS"],
-  backend: ["Node.js", "Express", "NestJS"],
-  database: ["MySQL", "PostgreSQL"],
-  orm: ["Prisma"],
-  learning: ["Docker", "Kubernetes"],
-  goals: ["Master Microservices", "Contribute to Open Source"]
-};
