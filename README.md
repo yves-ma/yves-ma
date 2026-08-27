@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yves Mazimpaka</h1>
-<h3 align="center">A passionate Full Stack Developer from Rwanda</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mazimpakayves&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%7C+Express+%7C+NestJS;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
