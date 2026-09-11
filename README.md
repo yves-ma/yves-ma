@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🔭 I’m currently working on **Full Stack Web Applications**
 - 🌱 I’m currently learning **Docker** & **DevOps Practices**
