@@ -9,11 +9,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-- 🌱 I’m currently learning **Docker** & **DevOps Practices**
-- 💬 Ask me about **JavaScript, React, Express, NestJS, MySQL, Prisma**
-- 📫 How to reach me: **mazimpakayves@gmail.com**
-- ⚡ Fun fact: **I love building scalable and maintainable applications**
+- I’m currently working on **Full Stack Web Applications**
+- I’m currently learning **Docker** & **DevOps Practices**
+- Ask me about **JavaScript, React, Express, NestJS, MySQL, Prisma**
+- How to reach me: **mazimpakayves@gmail.com**
+- Fun fact: **I love building scalable and maintainable applications**
 
 ---
 
